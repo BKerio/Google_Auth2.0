@@ -102,5 +102,5 @@ app.get('/me', ensureAuthenticated, (req: Request, res: Response) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Server started on port ${PORT}`);
+    console.log(`Backend server started on port ${PORT}`);
 });
