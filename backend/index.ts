@@ -14,7 +14,7 @@ import { ensureAuthenticated } from '@/middlewares/auth';
 const app = express();
 const PORT = process.env.PORT || 3000;
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/auth_with_passportjs';
-const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3001';
+const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:5173';
 
 // Connect to MongoDB
 connectDB(MONGO_URI);
