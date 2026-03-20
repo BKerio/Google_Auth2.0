@@ -97,7 +97,7 @@ const Dashboard: React.FC = () => {
           <div className="grid md:grid-cols-2 gap-6">
 
             <div className="p-6 rounded-xl bg-gray-50 dark:bg-gray-800/50 hover:shadow-md transition">
-              <h3 className="text-sm text-gray-500 dark:text-gray-400 uppercase tracking-wide">
+              <h3 className="text-sm text-gray-500 dark:text-gray-400 normal tracking-wide">
                 Account Status
               </h3>
               <p className="text-xl font-semibold mt-2 text-gray-900 dark:text-white">
