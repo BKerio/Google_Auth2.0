@@ -187,7 +187,7 @@ sequenceDiagram
 ```
 
 ---
-jjjj
+
 ## 🔒 Securing Endpoints
 
 ### Backend Protected Routes
