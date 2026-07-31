@@ -15,7 +15,7 @@ A modern, production-ready starter template showcasing full-stack user authentic
 
 ---
 
-## ✨ Features
+## The application Features
 
 - **Double Strategy Auth**: Local strategy (email & password using `bcrypt` hashing) + Google OAuth 2.0.
 - **Session-Based Authentication**: Managed via `express-session` and Passport serialization for seamless cookie-based persistence.
