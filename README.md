@@ -59,7 +59,7 @@ auth_with_passportjs/
 
 ---
 
-## ⚙️ Quick Start
+## Quick Start
 
 ### 1️⃣ Google Cloud Console Configuration
 
