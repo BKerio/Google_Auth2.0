@@ -1,4 +1,4 @@
-# Full-Stack Auth with Passport.js & React
+# Full-Stack Auth with Passport.js & React.
 
 A modern, production-ready starter template showcasing full-stack user authentication. It features Local Registration/Login (with password hashing) and Google OAuth 2.0 Sign-In using Passport.js, backed by a persistent MongoDB session store.
 
