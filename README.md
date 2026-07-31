@@ -190,7 +190,7 @@ sequenceDiagram
 
 ## 🔒 Securing Endpoints.
 
-### Backend Protected Routes
+### Backend Protected Routes.
 Wrap route definitions with `ensureAuthenticated` middleware to block unauthorized requests:
 ```typescript
 import { ensureAuthenticated } from '@/middlewares/auth';
