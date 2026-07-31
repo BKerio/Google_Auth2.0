@@ -188,7 +188,7 @@ sequenceDiagram
 
 ---
 
-## 🔒 Securing Endpoints
+## 🔒 Securing Endpoints.
 
 ### Backend Protected Routes
 Wrap route definitions with `ensureAuthenticated` middleware to block unauthorized requests:
