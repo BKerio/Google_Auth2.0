@@ -25,7 +25,7 @@ A modern, production-ready starter template showcasing full-stack user authentic
 
 ---
 
-## 📁 Project Directory Structure
+## Project Directory Structure
 
 ```text
 auth_with_passportjs/
