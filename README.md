@@ -200,7 +200,7 @@ app.get('/me', ensureAuthenticated, (req, res) => {
 });
 ```
 
-### Frontend Protected Routes.
+### Frontend Protected Routes.pppp
 On the client application, route protection checks `user` and `loading` status from `useAuth()` to dynamically redirect guests away from internal routes:
 ```tsx
 const ProtectedRoute = ({ children }) => {
