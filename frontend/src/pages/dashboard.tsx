@@ -110,7 +110,7 @@ const Dashboard: React.FC = () => {
                 Authentication
               </h3>
               <p className="text-xl font-semibold mt-2 text-gray-900 dark:text-white">
-                Google OAuth 2.0..
+                Google OAuth 2.0
               </p>
             </div>
 
