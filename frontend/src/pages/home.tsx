@@ -111,7 +111,7 @@ const Home: React.FC = () => {
 
       {/* Footer */}
       <div className="text-center py-6 text-gray-500 dark:text-gray-400 text-sm">
-        © {new Date().getFullYear()} Brian Kerio
+        © {new Date().getFullYear()} Brian Kerio. All rights reserved.
       </div>
     </div>
   );
