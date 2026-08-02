@@ -104,7 +104,7 @@ const Home: React.FC = () => {
           </div>
 
           <p className="text-center text-sm text-gray-500 dark:text-gray-400">
-            Protected with OAuth 2.0
+            Protected with Google Auth 2.0
           </p>
         </div>
       </div>
